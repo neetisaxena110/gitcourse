@@ -1047,7 +1047,7 @@ return "Search Response"</con:dispatchPath><con:dispatchStyle>SCRIPT</con:dispat
  <purchasestatus>
  <id>Item 1</id>
  <stockStatus>1 unit</stockStatus>
- <expectedDelivery>2000 years from now</expectedDelivery>
+ <expectedDelivery>2000 years from now abcd</expectedDelivery>
  </purchasestatus>
  <purchasestatus>
  <id>Item 2</id>
